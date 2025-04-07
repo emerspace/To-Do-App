@@ -11,9 +11,9 @@
     - pozostałe usatwienia można pozostawić bez zmian jeśli użyty będzie dostarczony z kodem docker-compose.yml
 
 + Uruchom polecenie: 
-    ```docker compose -d --build``
+    ```docker compose -d --build```
 
-    Spowoduje to uruchomienie i zbudowanie lokalnego środowiska testowego (aplikacja wraz z kolejka oraz schedulerem, baza danych mysql, mailhod do testowania wysyłki emaili)
+    Spowoduje to uruchomienie i zbudowanie lokalnego środowiska testowego (aplikacja wraz z kolejka oraz schedulerem, baza danych mysql, mailhog do testowania wysyłki emaili)
 
 + Aplikacje będą dostepne przez przeglądarke internetową:
     ```http://localhost:8000``` - główna aplikacja
